@@ -1,0 +1,16 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/3d_fun
+3d_fun.so
+3d_fun.dylib
+3d_fun.dll
+3d_fun.a
+3d_fun.lib
+3d_fun-test-*
+*.exe
+*.pdb
+*.o
+*.obj
+*.lst
